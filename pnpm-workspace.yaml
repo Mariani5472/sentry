@@ -1,0 +1,7 @@
+packages:
+  - api
+  - web
+  - packages/*
+  - demo/*
+allowBuilds:
+  esbuild: true
